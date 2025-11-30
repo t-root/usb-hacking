@@ -1,16 +1,15 @@
 
 <div align="center">
 
-![Demo Image 1](img/img1.jpg){: width="200" }
-![Demo Image 2](img/img2.jpg){: width="200" }
+<img src="img/img1.jpg" width="120">
+<img src="img/img2.jpg" width="120">
+<img src="img/img3.jpg" width="120">
 
-![Demo Image 3](img/img3.jpg){: width="200" }
-![Demo Image 4](img/img4.jpg){: width="200" }
+<img src="img/img4.jpg" width="120">
+<img src="img/img5.jpg" width="120">
+<img src="img/img6.jpg" width="120">
 
-![Demo Image 5](img/img5.jpg){: width="200" }
-![Demo Image 6](img/img6.jpg){: width="200" }
-
-![Demo Image 7](img/img7.jpg){: width="200" }
+<img src="img/img7.jpg" width="120">
 
 </div>
 # T-ROOT Counter - Hướng Dẫn Sử Dụng
